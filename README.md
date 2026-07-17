@@ -154,3 +154,10 @@ Started learning Object-Oriented Programming (OOP) in Python. Covered Classes, O
 Understanding Core OOP Concepts
 
 Dived deeper into Object-Oriented Programming by learning the self keyword, Constructors (__init__), Public, Protected, and Private Variables, Data Hiding, and Encapsulation. Implemented practical examples to understand how OOP helps build secure, maintainable, and scalable Python applications.
+
+
+📅 Day 22 
+-----------
+Inheritance in Python (OOP)
+
+Explored the concept of **Inheritance** in Python, learning how child classes inherit properties and methods from parent classes to promote code reusability and maintainability. Covered all five types of inheritance—**Single, Multiple, Multilevel, Hierarchical, and Hybrid**—along with the **`super()`** function for accessing parent class methods and constructors. Implemented practical examples to understand class relationships and build a strong foundation in Object-Oriented Programming.
