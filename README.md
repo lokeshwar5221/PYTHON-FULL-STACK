@@ -161,3 +161,10 @@ Dived deeper into Object-Oriented Programming by learning the self keyword, Cons
 Inheritance in Python (OOP)
 
 Explored the concept of **Inheritance** in Python, learning how child classes inherit properties and methods from parent classes to promote code reusability and maintainability. Covered all five types of inheritance—**Single, Multiple, Multilevel, Hierarchical, and Hybrid**—along with the **`super()`** function for accessing parent class methods and constructors. Implemented practical examples to understand class relationships and build a strong foundation in Object-Oriented Programming.
+
+
+📅 Day 23
+----------
+Polymorphism & Data Abstraction
+
+Explored advanced OOP concepts in Python, including **Polymorphism**, Method Overloading, Method Overriding, and Operator Overloading. Also learned **Data Abstraction** using abstract methods to hide implementation details and expose only essential functionality through practical banking examples.
