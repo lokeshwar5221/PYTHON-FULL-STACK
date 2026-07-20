@@ -168,3 +168,10 @@ Explored the concept of **Inheritance** in Python, learning how child classes in
 Polymorphism & Data Abstraction
 
 Explored advanced OOP concepts in Python, including **Polymorphism**, Method Overloading, Method Overriding, and Operator Overloading. Also learned **Data Abstraction** using abstract methods to hide implementation details and expose only essential functionality through practical banking examples.
+
+
+📅 Day 24
+-----------
+University Management System Using OOP
+
+Built a mini University Management System in Python by combining core OOP concepts such as Classes, Objects, Inheritance, Method Overriding, Encapsulation, Constructors, super(), Class Attributes, Class Methods, and Static Methods. Created separate structures for Students, Faculty, and Drivers to understand how real-world entities can be modeled using Object-Oriented Programming.
