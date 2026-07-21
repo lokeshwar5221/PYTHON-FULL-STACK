@@ -175,3 +175,10 @@ Explored advanced OOP concepts in Python, including **Polymorphism**, Method Ove
 University Management System Using OOP
 
 Built a mini University Management System in Python by combining core OOP concepts such as Classes, Objects, Inheritance, Method Overriding, Encapsulation, Constructors, super(), Class Attributes, Class Methods, and Static Methods. Created separate structures for Students, Faculty, and Drivers to understand how real-world entities can be modeled using Object-Oriented Programming.
+
+
+📅 Day 25
+----------
+Error Handling in Python
+
+Learned how to identify and handle common Python errors, including **SyntaxError, IndentationError, ValueError, NameError, and ZeroDivisionError**. Practiced using `try`, `except`, `else`, and `finally` blocks to handle exceptions effectively and build more reliable, robust, and user-friendly Python programs.
