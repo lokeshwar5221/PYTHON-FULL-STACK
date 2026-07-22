@@ -182,3 +182,10 @@ Built a mini University Management System in Python by combining core OOP concep
 Error Handling in Python
 
 Learned how to identify and handle common Python errors, including **SyntaxError, IndentationError, ValueError, NameError, and ZeroDivisionError**. Practiced using `try`, `except`, `else`, and `finally` blocks to handle exceptions effectively and build more reliable, robust, and user-friendly Python programs.
+
+
+📅 Day 26
+-----------
+File Handling in Python
+
+Learned how to work with external files in Python using the `open()` function and the `with` statement. Practiced different file modes such as `r`, `w`, `a`, and `x`, along with file operations like `read()`, `readline()`, `readlines()`, and `write()` to read, create, modify, and manage data stored in files.
