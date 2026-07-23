@@ -189,3 +189,10 @@ Learned how to identify and handle common Python errors, including **SyntaxError
 File Handling in Python
 
 Learned how to work with external files in Python using the `open()` function and the `with` statement. Practiced different file modes such as `r`, `w`, `a`, and `x`, along with file operations like `read()`, `readline()`, `readlines()`, and `write()` to read, create, modify, and manage data stored in files.
+
+
+📅 Day 27
+-----------
+Regular Expressions in Python
+
+Learned the basics of **Regular Expressions (Regex)** using Python's `re` module for searching, matching, extracting, splitting, and replacing patterns in strings. Practiced functions such as `findall()`, `search()`, `split()`, `sub()`, and `fullmatch()`, along with regex patterns like `[0-9]`, `[a-z]`, `[A-Z]`, `^`, `$`, `.`, `*`, `+`, and `{}` for text processing and pattern matching.
