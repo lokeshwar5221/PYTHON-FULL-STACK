@@ -196,3 +196,10 @@ Learned how to work with external files in Python using the `open()` function an
 Regular Expressions in Python
 
 Learned the basics of **Regular Expressions (Regex)** using Python's `re` module for searching, matching, extracting, splitting, and replacing patterns in strings. Practiced functions such as `findall()`, `search()`, `split()`, `sub()`, and `fullmatch()`, along with regex patterns like `[0-9]`, `[a-z]`, `[A-Z]`, `^`, `$`, `.`, `*`, `+`, and `{}` for text processing and pattern matching.
+
+
+📅 Day 27
+-----------
+Regular Expressions in Python
+
+Explored **Regular Expressions (Regex)** using Python's `re` module for pattern matching and text processing. Practiced `findall()`, `search()`, `split()`, `sub()`, and `fullmatch()`, along with character classes and special symbols such as `[0-9]`, `[a-z]`, `[A-Z]`, `^`, `$`, `.`, `*`, `+`, and `{}`.
