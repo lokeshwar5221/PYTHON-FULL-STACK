@@ -198,8 +198,8 @@ Regular Expressions in Python
 Learned the basics of **Regular Expressions (Regex)** using Python's `re` module for searching, matching, extracting, splitting, and replacing patterns in strings. Practiced functions such as `findall()`, `search()`, `split()`, `sub()`, and `fullmatch()`, along with regex patterns like `[0-9]`, `[a-z]`, `[A-Z]`, `^`, `$`, `.`, `*`, `+`, and `{}` for text processing and pattern matching.
 
 
-📅 Day 27
+📅 Day 28
 -----------
-Regular Expressions in Python
+Date & Time, Calendar, NumPy, and Pandas
 
-Explored **Regular Expressions (Regex)** using Python's `re` module for pattern matching and text processing. Practiced `findall()`, `search()`, `split()`, `sub()`, and `fullmatch()`, along with character classes and special symbols such as `[0-9]`, `[a-z]`, `[A-Z]`, `^`, `$`, `.`, `*`, `+`, and `{}`.
+Learned to work with Python's "datetime" and "calendar" modules for handling dates, times, formatting, calendars, weekdays, and leap years. Explored the basics of Data Analysis, created and manipulated NumPy arrays (1D, 2D, and 3D), and practiced indexing, slicing, and reshaping. Also introduced to Pandas by creating Series and DataFrames for organizing and analyzing structured data.
