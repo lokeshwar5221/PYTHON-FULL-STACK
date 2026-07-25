@@ -203,3 +203,10 @@ Learned the basics of **Regular Expressions (Regex)** using Python's `re` module
 Date & Time, Calendar, NumPy, and Pandas
 
 Learned to work with Python's "datetime" and "calendar" modules for handling dates, times, formatting, calendars, weekdays, and leap years. Explored the basics of Data Analysis, created and manipulated NumPy arrays (1D, 2D, and 3D), and practiced indexing, slicing, and reshaping. Also introduced to Pandas by creating Series and DataFrames for organizing and analyzing structured data.
+
+
+📅 Day 29
+-----------
+Data Visualization with Matplotlib
+
+Learned the basics of **Matplotlib** for visualizing data through different charts and graphs. Practiced creating **Line Graphs, Bar Graphs, Pie Charts, Scatter Plots, and Histograms**, along with using **Subplots** to display multiple visualizations together. Also explored customizing charts with titles, labels, colours, legends, and background styling to make data easier to understand.
