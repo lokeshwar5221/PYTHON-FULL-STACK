@@ -210,3 +210,10 @@ Learned to work with Python's "datetime" and "calendar" modules for handling dat
 Data Visualization with Matplotlib
 
 Learned the basics of **Matplotlib** for visualizing data through different charts and graphs. Practiced creating **Line Graphs, Bar Graphs, Pie Charts, Scatter Plots, and Histograms**, along with using **Subplots** to display multiple visualizations together. Also explored customizing charts with titles, labels, colours, legends, and background styling to make data easier to understand.
+
+
+📅 Day 30
+----------
+Web Scraping & Data Extraction with Python
+
+Learned the fundamentals of **Web Scraping** using `Requests` and `BeautifulSoup` to fetch and extract data such as product names, prices, and images from websites. Used **Regular Expressions** for data extraction, **Pandas** to organise scraped data into DataFrames and CSV files, and **Matplotlib** to visualise book prices through charts.
