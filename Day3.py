@@ -61,7 +61,7 @@ batch(name='roxx',age=20)
 print(4,5)
 print(4,5,sep=':')#Here keyword argument is sep and we are changing
 #the default value for sep
-'''
+
 
 #keyword variable length rguments(**kwargs)-->anu number of
 #keyword argument,data is stored in dictionary
@@ -71,5 +71,18 @@ def batch(**a):
     print(type(a))
 batch()
 batch(name='loki',age=21,place='vizag',brance='csd')
-data={name:['loki','sai'],'place':['vizag','rjy']}
+data={'name':['loki','sai'],'place':['vizag','rjy']}
 batch(**data)
+'''
+
+def student_details_marks(*marks,**details):
+    print(details)
+    total=0
+    avg=0
+    for i in marks:
+        total+=i
+    avg=total/len(marks)
+    print(total,avg)
+details={'name':'loki','age':21,'place':'vizag','brance':'csd'}
+marks=(45,56,88,98,88,74)
+student_details_marks(**details,*marks)
