@@ -24,7 +24,7 @@ print(Day4.__doc__)#return doc string from the given module
 #Build a QRcode Scanner for your linkedin and github profile
 import pyqrcode
 import png
-link='https://github.com/lokeshwar5221'
+link='https://www.linkedin.com/in/kakumanu-lokeshwar-32a55a417'
 qr=pyqrcode.create(link)
 #print(qr)
-qr.png("loki_github.png",scale=10)
+qr.png("loki_linkedin.png",scale=10)
